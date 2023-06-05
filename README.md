@@ -1,1 +1,1 @@
-# Practica-4-Memorama-multijugador-con-Python-Sockets
+# Practica 4 Memorama multijugador con Python Sockets
