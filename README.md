@@ -1,4 +1,4 @@
-# Practica 4 Memorama multijugador con Python Sockets.
+# Memorama multijugador con Python Sockets.
 ### Elaborado por Trinidad González Alan Isaac.
 #
 ## :computer: Paso 1. Compilar y ejecutar el servidor.py
